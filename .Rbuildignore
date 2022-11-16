@@ -1,2 +1,4 @@
 ^LICENSE\.md$
 ^TODO.org
+^.*\.Rproj$
+^\.Rproj\.user$
